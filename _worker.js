@@ -37,21 +37,20 @@ let go2Socks5s = [
 let addresses = [
 	//当sub为空时启用本地优选域名/优选IP，若不带端口号 TLS默认端口为443，#号后为备注别名
 	/*
-	'Join.my.Telegram.channel.CMLiussss.to.unlock.more.premium.nodes.cf.090227.xyz#加入我的频道t.me/CMLiussss解锁更多优选节点',
-	'visa.cn:443',
-	'www.visa.com:8443',
-	'cis.visa.com:2053',
-	'africa.visa.com:2083',
-	'www.visa.com.sg:2087',
-	'www.visaeurope.at:2096',
-	'www.visa.com.mt:8443',
-	'qa.visamiddleeast.com',
-	'time.is',
-	'www.wto.org:8443',
-	'chatgpt.com:2087',
-	'icook.hk',
-	'104.17.0.0#IPv4',
-	'[2606:4700::]#IPv6'
+    'cf.090227.xyz:443#优选官方线路-CM提供',
+    'cf.090227.xyz:8443#优选官方线路-CM提供',
+    'cf.090227.xyz:2053#优选官方线路-CM提供',
+    'cf.090227.xyz:2083#优选官方线路-CM提供',
+    'cf.090227.xyz:2087#优选官方线路-CM提供',
+    'cf.090227.xyz:2096#优选官方线路-CM提供',
+    'cfip.xxxxxxxx.tk:443#优选官方线路-OTC提供',
+    'cfip.xxxxxxxx.tk:2053#优选官方线路-OTC提供',
+    'cfip.xxxxxxxx.tk:2083#优选官方线路-OTC提供',
+    'cfip.xxxxxxxx.tk:2087#优选官方线路-OTC提供',
+    'cfip.xxxxxxxx.tk:2096#优选官方线路-OTC提供',
+    'cfip.xxxxxxxx.tk:8443#优选官方线路-OTC提供',
+    'bestcf.onecf.eu.org#官方优选域名-Mingyu大佬提供维护',
+    'cf.zhetengsha.eu.org:443#联通优选'
 	*/
 ];
 let addressesapi = [];
